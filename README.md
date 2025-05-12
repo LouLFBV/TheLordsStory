@@ -1,12 +1,20 @@
 # The Lord's Story
 
 
-### Comment télécharger "The Lord's Story
+Découvrez "The Lord's Story", un jeu gratuit disponible dès maintenant sur PC !
+Téléchargez-le en ligne via le lien suivant : https://lawx-sama.itch.io/the-lords-story
+(Pensez à consulter régulièrement cette page pour télécharger la dernière version du jeu en cas de mise à jour.)
 
-Pour télécharger "The Lord's Story" il vous suffit de cliquer sur le dossier "TheLordsStory.zip", ensuite vous devrez le télécharger en cliquant sur l'icone ⬇️(Download raw file).
-Une fois le fichier téléchager sur votre pc, il vous suffit d'éxtraire le dossier, puis il faudra simplement glisser le ficher "TheLordsStory.exe", avce l'icone du jeu, sur votre bureau et vous êtes prêt, plus qu'à jouer !
+🎥 Une vidéo tutorielle est également disponible pour vous guider pas à pas dans le téléchargement du jeu : https://youtu.be/qSyWqcz1K30
 
-Une vidéo YouTube est également disponible qui vous accompagne et vous montre comment télécharger le jeu sur votre pc ; lien de la vidéo : 
+🕹️ Le jeu est également jouable en ligne via ce lien (⚠️ nous recommandons toutefois de le télécharger pour une expérience optimale) : https://lawx-sama.itch.io/the-lords-story-online
+
+⚔️ Plongez dans un univers 2D pixélisé où vous devez libérer les différentes régions du joug des Seigneurs pour ramener la paix.
+
+💪 Partez à l’aventure, explorez ce monde riche et accomplissez de nombreuses quêtes captivantes.
+
+💥 Affrontez vos amis en 1 contre 1 sur le même PC !
+Choisissez parmi 4 personnages et combattez dans 6 arènes de duel différentes.
 
 ### Qui sommes-nous, les créateurs de The Lord's Story ?
 
