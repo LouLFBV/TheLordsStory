@@ -5,7 +5,8 @@ Découvrez "The Lord's Story", un jeu gratuit disponible dès maintenant sur PC 
 Téléchargez-le en ligne via le lien suivant : https://lawx-sama.itch.io/the-lords-story
 (Pensez à consulter régulièrement cette page pour télécharger la dernière version du jeu en cas de mise à jour.)
 
-🎥 Une vidéo tutorielle est également disponible pour vous guider pas à pas dans le téléchargement du jeu : https://youtu.be/qSyWqcz1K30
+🎥 La bande-annonce du jeu est disponible via ce lien : https://www.youtube.com/watch?v=bF5muo9rCNk 
+et une vidéo tutorielle est également disponible pour vous guider pas à pas dans le téléchargement du jeu : https://youtu.be/qSyWqcz1K30
 
 🕹️ Le jeu est également jouable en ligne via ce lien (⚠️ nous recommandons toutefois de le télécharger pour une expérience optimale) : https://lawx-sama.itch.io/the-lords-story-online
 
